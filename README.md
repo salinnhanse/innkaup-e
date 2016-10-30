@@ -1,2 +1,3 @@
 # innkaup-e
-Það sem vantar í ískápinn hjá E.
+
+![alt text](http://i.imgur.com/gyRPvdK.png "Logo Title Text 1")

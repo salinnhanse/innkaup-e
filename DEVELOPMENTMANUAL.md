@@ -60,6 +60,3 @@ Use this to run all test cases and display their status:
 ```
 bin/test
 ```
-
-
-

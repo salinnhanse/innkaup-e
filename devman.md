@@ -1,5 +1,4 @@
-# Manual
-
+# Developer Manual
 
 ## Version Control
 
